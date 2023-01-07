@@ -1,0 +1,7 @@
+<div id="note-form">
+    <mat-form-field appearance="legacy">
+        <mat-label>Enter Note Code</mat-label>
+        <input type="text" name="NoteCode" placeholder="Note Code" [(ngModel)]="noteCode" matInput>
+    </mat-form-field>
+    <button type="submit" mat-flat-button (click)="validateVendorCode()">Submit</button>
+</div>

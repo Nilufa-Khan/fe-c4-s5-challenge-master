@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "title": "practice-exercise: typescript",
+      "content": "solution development progress - exercise 1 solution ready, exercise 2 solution to be started"
+    },
+
+
+    {
+      "id": 3,
+      "title": "challenge: typescript12",
+      "content": "solution developed, need to submit for evaluation"
+    },
+    
+    {
+      "id": 4,
+      "title": "practice-exercise: typescript2",
+      "content": "solution reviewed, refactoring in progress"
+    }
+
+  ]
+}
